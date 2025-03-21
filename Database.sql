@@ -36,8 +36,8 @@ VALUES
 ('em2', 'Aswath', '78 Gold Coast', '5674', 'Aswath567@gmail.com', '5678-789-673', '17-10-1999', 'store02');
 SELECT * FROM  StoreEmployee;
 
-CREATE TABLE Customer (
-CustId VARCHAR(7),
+CREATE TABLE customer (
+custId VARCHAR(7),
 cName TEXT NOT NULL,
 cMobilePh TEXT,
 cEmail TEXt,
@@ -82,8 +82,8 @@ VALUES
 ('order2','7869', '500', '50');
 SELECT * FROM  orderDetails;
 
-CREATE TABLE Supplier (
-       SupIrId VARCHAR(7),
+CREATE TABLE supplier (
+       supIrId VARCHAR(7),
        supIrName TEXT NOT NULL,
        supIrAddress TEXT,
        supIrPostcode VARCHAR(4),
