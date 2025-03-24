@@ -20,19 +20,19 @@ This repository contains:
 - **MySQL**
 - SQL scripting
 - Basic database security practices
-- ##  Key Topics Covered
+##  Key Topics Covered
 - SELECT queries with JOINs and WHERE clauses
 - Aggregation functions: `COUNT`, `SUM`, `HAVING`
 - View creation and privilege management (`GRANT`, `REVOKE`)
 - User creation with password and expiration policies
 - Data integrity and privacy considerations
-- ##  Data Ethics & Security
+ ##  Data Ethics & Security
 -The project also includes a reflection on data ethics, emphasizing:
 - Data protection regulations (e.g., GDPR, CCPA)
 - Encryption, secure access, and transparency
 - Importance of consent and ethical handling of user data
 - Potential consequences of data breaches
 
-- ## Contact
+## Contact
 
 If you have any questions or feedback, feel free to reach out via GitHub Issues
