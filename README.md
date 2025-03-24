@@ -17,23 +17,17 @@ This repository contains:
   - Booking management
 - Ethics reflection on data privacy and security
 ##  Technologies Used
-
 - **MySQL**
 - SQL scripting
 - Basic database security practices
--
 - ##  Key Topics Covered
-
 - SELECT queries with JOINs and WHERE clauses
 - Aggregation functions: `COUNT`, `SUM`, `HAVING`
 - View creation and privilege management (`GRANT`, `REVOKE`)
 - User creation with password and expiration policies
 - Data integrity and privacy considerations
-
 - ##  Data Ethics & Security
-
-The project also includes a reflection on data ethics, emphasizing:
-
+-The project also includes a reflection on data ethics, emphasizing:
 - Data protection regulations (e.g., GDPR, CCPA)
 - Encryption, secure access, and transparency
 - Importance of consent and ethical handling of user data
